@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Corba",
+        "mealId": 52977,
+        "img": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+        "strArea": "Turkish",
+        "price": 490,
+        "strInstructions": "If you order kumpir in Turkey, the standard filling is first, lots of butter mashed into the potato, followed by cheese."
+    },
+    {
+        "name": "Burek",
+        "mealId": 53060,
+        "img": "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg",
+        "strArea": "Croatian",
+        "price": 300,
+        "strInstructions": "Fry the finely chopped onions and minced meat in oil. Add the salt and pepper. Grease a round baking tray and put a ."
+    },
+    {
+        "name": "Kumpir",
+        "mealId": 52978,
+        "img": "https://www.themealdb.com/images/media/meals/mlchx21564916997.jpg",
+        "strArea": "Turkish",
+        "price": 630,
+        "strInstructions": "If you order kumpir in Turkey, the standard filling is first, lots of butter mashed into the potato, followed by cheese."
+    },
+    {
+        "name": "Tamiya",
+        "mealId": 53026,
+        "img": "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg",
+        "strArea": "Egyptian",
+        "price": 250,
+        "strInstructions": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins."
+    },
+    {
+        "name": "Poutine",
+        "mealId": 52804,
+        "img": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "strArea": "Canadian",
+        "price": 340,
+        "strInstructions": "Heat oil in a deep fryer or deep heavy skillet to 365°F (185°C).\r\nWarm gravy in saucepan or microwave."
+    },
+    {
+        "name": "Poutine",
+        "mealId": 52844,
+        "img": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+        "strArea": "Italian",
+        "price": 510,
+        "strInstructions": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board."
+    },
+    {
+        "name": "Timbits",
+        "mealId": 52929,
+        "img": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg",
+        "strArea": "Canadian",
+        "price": 700,
+        "strInstructions": "Sift together dry ingredients.\r\nMix together wet ingredients and incorporate into dry. Stir until smooth."
+    },
+    {
+        "name": "Wontons",
+        "mealId": 52948,
+        "img": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "strArea": "Chinese",
+        "price": 450,
+        "strInstructions": "Combine pork, garlic, ginger, soy sauce, sesame oil, and vegetables in a bowl.\r\nSeparate wonton skins."
+    },
+    {
+        "name": "Kafteji",
+        "mealId": 52971,
+        "img": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
+        "strArea": "Tunisian",
+        "price": 500,
+        "strInstructions": "Peel potatoes and cut into 5cm cubes.\r\nPour 1-2 cm of olive oil into a large pan and heat up very hot."
+    },
+    {
+        "name": "Big Mac",
+        "mealId": 53013,
+        "img": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+        "strArea": "American",
+        "price": 790,
+        "strInstructions": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use.\r\n2."
+    },
+    {
+        "name": "Koshari",
+        "mealId": 53027,
+        "img": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+        "strArea": "Egyptian",
+        "price": 570,
+        "strInstructions": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes)."
+    }
+]
